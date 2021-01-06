@@ -1,10 +1,10 @@
-## Brief introduction
+### brief introduction
 
 目前从事 cv & cg 领域的工作，打算在这里记录自己的经历。
 
-### Paper reading
+### paper reading
 
-[My First Paper](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. [My First Paper](https://jekyllrb.com/)
 
 ```markdown
 Syntax highlighted code block
