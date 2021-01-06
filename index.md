@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Brief introduction
 
-You can use the [editor on GitHub](https://github.com/kfcbla/kfcbla/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+目前从事 cv & cg 领域的工作，打算在这里记录自己的经历。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Paper reading
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[My First Paper](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ```markdown
 Syntax highlighted code block
