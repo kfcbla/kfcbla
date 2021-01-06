@@ -4,7 +4,7 @@
 
 ### paper reading
 
-1. [My First Paper](https://github.com/kfcbla/kfcbla/firstPaper.md)
+1. [My First Paper](https://github.com/kfcbla/kfcbla/blob/gh-pages/firstpaper.md)
 
 ```markdown
 Syntax highlighted code block
